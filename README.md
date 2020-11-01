@@ -1,10 +1,12 @@
 
 <p align="center">
     <img alt="karma" src="https://i.imgur.com/C3zISlU.gif"/>
+    <!--
     <p align="center">
         <a href="https://github.com/decoxviii/karma/releases/latest"><img alt="Release" src="https://img.shields.io/github/tag/decoxviii/karma.svg"></a>
         <a href="https://twitter.com/decoxviii"><img alt="twitter" src="https://img.shields.io/badge/twitter-@decoxviii-blue.svg"></a>
     </p>
+    -->
 </p>
 
 ---
@@ -24,7 +26,7 @@ sudo apt install tor python3 python3-pip
 
 Install with `pip3`:
 ```
-sudo -H pip3 install git+https://github.com/decoxviii/karma.git
+sudo -H pip3 install git+https://github.com/thiagodesouza/karma.git
 karma --help
 ```
 
@@ -34,7 +36,7 @@ karma --help
 
 Clone this repository, and:
 ```
-git clone https://github.com/decoxviii/karma.git ; cd karma
+git clone https://github.com/thiagodesouza/karma.git ; cd karma
 sudo -H pip3 install -r requirements.txt
 python3 setup.py build
 sudo python3 setup.py install
@@ -46,7 +48,7 @@ sudo python3 setup.py install
 
 To update this tool to the latest version, run:
 ```
-sudo -H pip3 install git+https://github.com/decoxviii/karma.git --upgrade
+sudo -H pip3 install git+https://github.com/thiagodesouza/karma.git --upgrade
 karma --version
 ```
 
@@ -92,6 +94,6 @@ This program is inspired by the projects:
 
 ---
 
-**decoxviii**
+**decoxviii** - I have no idea where to find that user for the credits! :(
 
-**[MIT](https://github.com/decoxviii/karma/blob/master/LICENSE)**
+**[MIT](https://github.com/thiagodesouza/karma/blob/master/LICENSE)**
